@@ -3,6 +3,7 @@
 *[English version: README.en.md](README.en.md)*
 
 Skrypt zmienia oprogramowanie radia **Uconnect 430N (RHB)** z pakietu **50.01.01**:
+Radio ma obsługiwać 50.01.01, nie róbcie downgrade z nowszych wersji. W nowszych wersjach zmiania sie obsluga dysku i wersja 50.01.01 nie zawiera wymaganych zmian wiecej: https://mygig-disk.com/index-rhb.php
 
 - **wideo w czasie jazdy** na przednim ekranie;
 - **rynek europejski**: FM **87,5–108,0 MHz co 100 kHz** zamiast
